@@ -27,7 +27,7 @@ The dataset consists of over 400,000 question pairs from Quora, each with the fo
 - **qid1, qid2**: Unique identifiers for each question (only in train.csv)
 - **question1, question2**: The full text of each question
 - **is_duplicate**: The target variable (1 if questions are duplicates, 0 otherwise)
-## The dataset having train.csv and test.csv can in found in this one drive link :- https://iiithydstudents-my.sharepoint.com/:u:/g/personal/mayank_mittal_students_iiit_ac_in/Ef2igGfs64VDqRpSfgYc7-8Biad7vuYDD7qrnD2NDngVmQ?e=SUeJaH
+#### The dataset having train.csv and test.csv can in found in this one drive link :- https://iiithydstudents-my.sharepoint.com/:u:/g/personal/mayank_mittal_students_iiit_ac_in/Ef2igGfs64VDqRpSfgYc7-8Biad7vuYDD7qrnD2NDngVmQ?e=SUeJaH
 ⚠️ **Note**: The ground truth labels are subjective and were provided by human experts. While they represent a reasonable consensus, they may not be 100% accurate on a case-by-case basis.
 
 ## 🔧 Methodology
